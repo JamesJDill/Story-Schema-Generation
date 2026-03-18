@@ -1,0 +1,35 @@
+{
+  "characters": [
+    {
+      "physical_traits": {
+        "name": "",
+        "age": 0,
+        "sex": "",
+        "sexual_orientation": "",
+        "height": "",
+        "weight": "",
+        "build": ""
+      },
+      "social_profile": {
+        "occupation": "",
+        "wealth_status": "",
+        "education": ""
+      },
+      "background": {
+        "origin": "",
+        "personal_history_summary": "",
+        "notable_past_events": []
+      },
+      "personality": {
+        "core_traits": [],
+        "outward_demeanor": "",
+        "inner_conflicts": []
+      },
+      "behaviors": {
+        "speech_pattern": "",
+        "lying_tells": "",
+        "habits": []
+      }
+    }
+  ]
+}

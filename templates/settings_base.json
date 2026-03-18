@@ -1,0 +1,18 @@
+{
+  "story_settings": {
+    "sub_genre": "",
+    "intended_audience": "",
+    "writing_style": "",
+    "reading_level": "",
+    "point_of_view": ""
+  },
+  "world_settings": {   
+    "time_period": "",
+    "location": "", 
+    "realism_level": ""
+  },
+  "character_settings": {
+    "complexity": "",
+    "suspects": 0
+  }
+}

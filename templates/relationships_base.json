@@ -1,0 +1,16 @@
+{
+  "relationships": [
+    {
+      "character_a_id": "",
+      "character_b_id": "",
+      "surface_relationship": "",
+      "public_relationship_status": "",
+      "private_relationship_status": "",
+      "shared_history_summary": "",
+      "character_a_private_view": "",
+      "character_b_private_view": "",
+      "conflict_level": "",
+      "trust_level": ""
+    }
+  ]
+}

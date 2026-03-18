@@ -1,0 +1,58 @@
+{
+  "motives": [
+    {
+      "character_id": "char_07",
+      "character_role": "detective",
+      "motive_type": "positive",
+      "motive_summary": "As a mystery writer struggling with writer's block, Beatrice is driven by her natural curiosity and a personal sense of duty to uncover the truth and bring justice for Eleanor.",
+      "target_character_id": "char_01",
+      "motive_strength": "moderate",
+      "is_red_herring": "false"
+    },
+    {
+      "character_id": "char_02",
+      "character_role": "suspect",
+      "motive_type": "negative",
+      "motive_summary": "Elias resented Eleanor and The Gull's Perch Inn for symbolizing the town's shift towards tourism and modern development, which he viewed as a decline from its traditional maritime heritage.",
+      "target_character_id": "char_01",
+      "motive_strength": "moderate",
+      "is_red_herring": "true"
+    },
+    {
+      "character_id": "char_03",
+      "character_role": "suspect",
+      "motive_type": "negative",
+      "motive_summary": "Aris, with her scientific and modern mindset, may have viewed Eleanor's resistance to change or the inn's financial struggles as an obstacle to her own research interests or potential town development projects.",
+      "target_character_id": "char_01",
+      "motive_strength": "low",
+      "is_red_herring": "true"
+    },
+    {
+      "character_id": "char_04",
+      "character_role": "suspect",
+      "motive_type": "negative",
+      "motive_summary": "Leo, an opportunistic antique shop owner, likely saw Eleanor's financial distress and the prominent inn as a potential business opportunity, perhaps coveting the inn's valuable contents or the property itself.",
+      "target_character_id": "char_01",
+      "motive_strength": "moderate",
+      "is_red_herring": "true"
+    },
+    {
+      "character_id": "char_05",
+      "character_role": "suspect",
+      "motive_type": "negative",
+      "motive_summary": "Clara harbored deep-seated resentment, viewing Eleanor as an outsider who failed to uphold the true historical integrity of the inn, a vital piece of town heritage, possibly tied to a long-held family grudge.",
+      "target_character_id": "char_01",
+      "motive_strength": "high",
+      "is_red_herring": "false"
+    },
+    {
+      "character_id": "char_06",
+      "character_role": "suspect",
+      "motive_type": "negative",
+      "motive_summary": "Finn resented Eleanor's perceived prosperity and the success of her inn, feeling it highlighted his own financial struggles and low status, potentially exacerbated by a secret gambling problem.",
+      "target_character_id": "char_01",
+      "motive_strength": "moderate",
+      "is_red_herring": "true"
+    }
+  ]
+}

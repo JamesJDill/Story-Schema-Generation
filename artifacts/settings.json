@@ -1,0 +1,18 @@
+{
+  "story_settings": {
+    "sub_genre": "cozy mystery",
+    "intended_audience": "adult",
+    "writing_style": "witty and charming",
+    "reading_level": "adult general",
+    "point_of_view": "third person limited"
+  },
+  "world_settings": {
+    "time_period": "present day",
+    "location": "a picturesque coastal town in Maine",
+    "realism_level": "grounded"
+  },
+  "character_settings": {
+    "complexity": "moderate",
+    "suspects": 5
+  }
+}

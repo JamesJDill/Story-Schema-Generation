@@ -1,0 +1,13 @@
+{
+  "motives": [
+    {
+      "character_id": "",
+      "character_role": "",
+      "motive_type": "",
+      "motive_summary": "",
+      "target_character_id": "",
+      "motive_strength": "",
+      "is_red_herring": ""
+    }
+  ]
+}

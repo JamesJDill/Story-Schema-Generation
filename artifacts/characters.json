@@ -1,0 +1,369 @@
+{
+  "characters": [
+    {
+      "physical_traits": {
+        "name": "Eleanor Vance",
+        "age": 58,
+        "sex": "female",
+        "sexual_orientation": "heterosexual",
+        "height": "5'6\"",
+        "weight": "140 lbs",
+        "build": "elegant but slightly worn"
+      },
+      "social_profile": {
+        "occupation": "Innkeeper",
+        "wealth_status": "outwardly comfortable, secretly struggling",
+        "education": "College degree in Hospitality Management"
+      },
+      "background": {
+        "origin": "Nearby city in Maine",
+        "personal_history_summary": "Moved to the picturesque coastal town twenty years ago to restore and operate a historic inn. Her husband passed away five years ago, leaving her to manage the beloved but financially demanding establishment alone.",
+        "notable_past_events": [
+          "Restored and opened The Gull's Perch Inn",
+          "Husband's sudden passing five years prior",
+          "Financial struggles with the inn's upkeep"
+        ]
+      },
+      "personality": {
+        "core_traits": [
+          "gracious",
+          "resilient",
+          "proud",
+          "anxious"
+        ],
+        "outward_demeanor": "Composed, welcoming, and impeccably polite",
+        "inner_conflicts": [
+          "Fear of losing her cherished inn",
+          "Deep loneliness since her husband's death",
+          "Struggle to maintain a facade of prosperity"
+        ]
+      },
+      "behaviors": {
+        "speech_pattern": "Clear, calm, slightly formal, uses polite phrases",
+        "lying_tells": "Touches her pearl necklace, briefly avoids direct eye contact",
+        "habits": [
+          "Meticulously tidies surfaces around the inn",
+          "Sips chamomile tea in the evenings",
+          "Checks the guest registers multiple times a day"
+        ]
+      },
+      "character_id": "char_01",
+      "roles": [
+        "victim"
+      ]
+    },
+    {
+      "physical_traits": {
+        "name": "Captain Elias Thorne",
+        "age": 72,
+        "sex": "male",
+        "sexual_orientation": "heterosexual",
+        "height": "5'9\"",
+        "weight": "185 lbs",
+        "build": "Burly, weather-beaten, sturdy"
+      },
+      "social_profile": {
+        "occupation": "Retired Fisherman",
+        "wealth_status": "modest but self-sufficient",
+        "education": "High school diploma"
+      },
+      "background": {
+        "origin": "Coastal town in Maine (lifelong resident)",
+        "personal_history_summary": "A lifelong resident of the town, Elias spent over 50 years working on the sea. Widowed young, he raised his daughter alone and is deeply connected to the town's maritime heritage.",
+        "notable_past_events": [
+          "Spent five decades as a fishing captain",
+          "Raised his daughter as a single parent",
+          "Witnessed significant changes in the town's fishing industry"
+        ]
+      },
+      "personality": {
+        "core_traits": [
+          "gruff",
+          "traditional",
+          "loyal",
+          "suspicious"
+        ],
+        "outward_demeanor": "Curmudgeonly, laconic, and set in his ways",
+        "inner_conflicts": [
+          "Misses the active life at sea",
+          "Worries about the town's modern development",
+          "Regrets unspoken words to his late wife"
+        ]
+      },
+      "behaviors": {
+        "speech_pattern": "Slow, deep, gravelly voice with a distinct Maine accent, prone to nautical phrases",
+        "lying_tells": "Scratches his beard, squints slightly, avoids elaborating",
+        "habits": [
+          "Whittles small wooden birds by the harbor",
+          "Reads the local newspaper cover-to-cover with his morning coffee",
+          "Checks the tide charts daily, even in retirement"
+        ]
+      },
+      "character_id": "char_02",
+      "roles": [
+        "suspect"
+      ]
+    },
+    {
+      "physical_traits": {
+        "name": "Dr. Aris Thorne",
+        "age": 40,
+        "sex": "female",
+        "sexual_orientation": "pansexual",
+        "height": "5'7\"",
+        "weight": "130 lbs",
+        "build": "Lean, athletic, and agile"
+      },
+      "social_profile": {
+        "occupation": "Oceanographer (freelance research consultant)",
+        "wealth_status": "comfortable",
+        "education": "PhD in Marine Biology"
+      },
+      "background": {
+        "origin": "Coastal town in Maine",
+        "personal_history_summary": "Grew up in the town, left for university, and traveled globally for her marine research. She recently returned to her hometown, ostensibly to 'settle down' near her father, but is secretly working on a sensitive, ethically complex research project.",
+        "notable_past_events": [
+          "Published several influential marine biology papers",
+          "Worked on international conservation projects",
+          "Recently returned to her hometown after years abroad"
+        ]
+      },
+      "personality": {
+        "core_traits": [
+          "intelligent",
+          "driven",
+          "independent",
+          "socially awkward"
+        ],
+        "outward_demeanor": "Focused, professional, and somewhat detached",
+        "inner_conflicts": [
+          "Balancing demanding career ambition with family ties",
+          "Feeling like an outsider in her own hometown despite her roots",
+          "Fear of failure in her current research"
+        ]
+      },
+      "behaviors": {
+        "speech_pattern": "Precise, articulate, often uses scientific jargon, speaks at a moderate pace",
+        "lying_tells": "Taps her pen rapidly, avoids explaining details fully, shifts her gaze to an imaginary point",
+        "habits": [
+          "Takes long walks along the shore, collecting samples",
+          "Makes detailed notes in a small, waterproof journal",
+          "Drinks coffee black and strong, regardless of the time of day"
+        ]
+      },
+      "character_id": "char_03",
+      "roles": [
+        "suspect"
+      ]
+    },
+    {
+      "physical_traits": {
+        "name": "Leo Maxwell",
+        "age": 35,
+        "sex": "male",
+        "sexual_orientation": "homosexual",
+        "height": "5'11\"",
+        "weight": "160 lbs",
+        "build": "Slender and artistic"
+      },
+      "social_profile": {
+        "occupation": "Antique Shop Owner",
+        "wealth_status": "comfortable, but dependent on trends",
+        "education": "Art school graduate (BFA)"
+      },
+      "background": {
+        "origin": "Boston, Massachusetts",
+        "personal_history_summary": "Moved to the town five years ago from Boston, seeking a quieter life and the ideal setting for his dream antique shop. He has a keen eye for unique pieces and a charming way with customers, but harbors secrets about a past business failure.",
+        "notable_past_events": [
+          "Opened 'Timeless Treasures' antique shop",
+          "Previous business venture in Boston failed spectacularly",
+          "Left city life behind for coastal tranquility"
+        ]
+      },
+      "personality": {
+        "core_traits": [
+          "charming",
+          "aesthetically driven",
+          "observant",
+          "gossipy"
+        ],
+        "outward_demeanor": "Friendly, flamboyant, and always impeccably dressed",
+        "inner_conflicts": [
+          "Insecurity about his business's long-term viability",
+          "A desire for deeper connection beyond surface-level charm",
+          "Fear of his past failures being discovered"
+        ]
+      },
+      "behaviors": {
+        "speech_pattern": "Slightly theatrical flair, often uses elaborate metaphors and witty remarks",
+        "lying_tells": "Adjusts his designer glasses unnecessarily, a slight tremor in his hands, overly effusive praise",
+        "habits": [
+          "Rearranges displays in his shop constantly",
+          "Sips artisanal tea from delicate porcelain cups",
+          "Always wears a carefully selected silk scarf"
+        ]
+      },
+      "character_id": "char_04",
+      "roles": [
+        "suspect"
+      ]
+    },
+    {
+      "physical_traits": {
+        "name": "Clara Jenkins",
+        "age": 68,
+        "sex": "female",
+        "sexual_orientation": "asexual",
+        "height": "5'4\"",
+        "weight": "125 lbs",
+        "build": "Petite, slightly stooped with age"
+      },
+      "social_profile": {
+        "occupation": "Retired Librarian, Part-time Local Historian",
+        "wealth_status": "modest",
+        "education": "Master's in Library Science"
+      },
+      "background": {
+        "origin": "Coastal town in Maine (lifelong resident)",
+        "personal_history_summary": "Born and raised in the town, Clara dedicated her entire adult life to the local library, becoming a walking encyclopedia of the town's history and its residents' secrets. She never married, finding fulfillment in her intellectual pursuits.",
+        "notable_past_events": [
+          "Served as the town's head librarian for over 40 years",
+          "Authored a comprehensive local history book",
+          "Involved in preserving historical documents and town archives"
+        ]
+      },
+      "personality": {
+        "core_traits": [
+          "quiet",
+          "meticulous",
+          "knowledgeable",
+          "judgmental"
+        ],
+        "outward_demeanor": "Unassuming, scholarly, and a bit reserved",
+        "inner_conflicts": [
+          "Feels protective of the town's 'true' history against modern narratives",
+          "Secretly disapproves of many recent changes and newcomers",
+          "Carries a long-held grudge against a prominent local family"
+        ]
+      },
+      "behaviors": {
+        "speech_pattern": "Speaks softly but firmly, often corrects minor factual inaccuracies with precise detail",
+        "lying_tells": "Clears her throat repeatedly, fiddles with the hem of her cardigan, avoids specific dates or names",
+        "habits": [
+          "Always wears sensible, comfortable shoes",
+          "Always has a book or a historical document in hand",
+          "Takes detailed notes during town meetings, even if not officially required"
+        ]
+      },
+      "character_id": "char_05",
+      "roles": [
+        "suspect",
+        "murderer"
+      ]
+    },
+    {
+      "physical_traits": {
+        "name": "Finn O'Connell",
+        "age": 28,
+        "sex": "male",
+        "sexual_orientation": "heterosexual",
+        "height": "6'1\"",
+        "weight": "190 lbs",
+        "build": "Muscular, rugged, accustomed to manual labor"
+      },
+      "social_profile": {
+        "occupation": "Fisherman/Deckhand",
+        "wealth_status": "struggling",
+        "education": "High school diploma"
+      },
+      "background": {
+        "origin": "Neighboring working-class town in Maine",
+        "personal_history_summary": "Grew up in a working-class family and moved to this coastal town a few years ago for better fishing prospects. He has a reputation for being hot-headed and impulsive, but is fiercely loyal to his friends and a diligent worker when motivated.",
+        "notable_past_events": [
+          "Moved to town seeking steady work in the fishing industry",
+          "Involved in a bar brawl that led to a public apology",
+          "Has a strained relationship with his family back home"
+        ]
+      },
+      "personality": {
+        "core_traits": [
+          "impulsive",
+          "loyal",
+          "quick-tempered",
+          "protective"
+        ],
+        "outward_demeanor": "Boisterous, confident, and sometimes confrontational",
+        "inner_conflicts": [
+          "Struggling to make ends meet and escape his financial situation",
+          "Feels underestimated and looked down upon by the town's wealthier residents",
+          "Has a secret gambling problem he's trying to hide"
+        ]
+      },
+      "behaviors": {
+        "speech_pattern": "Speaks loudly and quickly, often uses colloquialisms and occasional profanity",
+        "lying_tells": "Avoids direct eye contact, becomes overly defensive or aggressive, scratches the back of his neck",
+        "habits": [
+          "Chain-smokes when stressed or deep in thought",
+          "Meticulously polishes his fishing knife after every trip",
+          "Frequents the local pub, often staying until closing"
+        ]
+      },
+      "character_id": "char_06",
+      "roles": [
+        "suspect"
+      ]
+    },
+    {
+      "physical_traits": {
+        "name": "Beatrice \"Bea\" Finch",
+        "age": 45,
+        "sex": "female",
+        "sexual_orientation": "bisexual",
+        "height": "5'5\"",
+        "weight": "135 lbs",
+        "build": "Average build, dresses with an artistic flair"
+      },
+      "social_profile": {
+        "occupation": "Freelance Writer (mystery novels)",
+        "wealth_status": "comfortable",
+        "education": "MFA in Creative Writing"
+      },
+      "background": {
+        "origin": "New York City",
+        "personal_history_summary": "Moved to the town six months ago from New York City, seeking inspiration for her next mystery novel and a peaceful retreat from her tumultuous past. She's keenly observant of local life and often asks probing questions, sometimes without realizing she's prying.",
+        "notable_past_events": [
+          "Published two moderately successful mystery novels",
+          "Moved to the coastal town for a 'change of scenery' after a difficult period",
+          "Struggled with writer's block for over a year"
+        ]
+      },
+      "personality": {
+        "core_traits": [
+          "curious",
+          "observant",
+          "imaginative",
+          "nosy"
+        ],
+        "outward_demeanor": "Friendly, engaging, and eager to connect",
+        "inner_conflicts": [
+          "Struggling with persistent writer's block and creative doubt",
+          "Feeling isolated despite her efforts to connect with locals",
+          "Trying to outrun a past failed relationship and personal scandal"
+        ]
+      },
+      "behaviors": {
+        "speech_pattern": "Speaks expressively, often pausing for dramatic effect or to formulate complex thoughts",
+        "lying_tells": "Fidgets with her hair or scarf, uses overly detailed (and sometimes contradictory) explanations, avoids direct answers",
+        "habits": [
+          "Carries a small notebook and pen everywhere, constantly jotting notes",
+          "Sips herbal tea from a travel mug throughout the day",
+          "Takes long, thoughtful walks around town, often stopping to observe"
+        ]
+      },
+      "character_id": "char_07",
+      "roles": [
+        "detective"
+      ]
+    }
+  ]
+}

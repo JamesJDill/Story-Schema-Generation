@@ -1,0 +1,47 @@
+{
+  "assignments": [
+    {
+      "character_id": "char_01",
+      "roles": [
+        "victim"
+      ]
+    },
+    {
+      "character_id": "char_02",
+      "roles": [
+        "suspect"
+      ]
+    },
+    {
+      "character_id": "char_03",
+      "roles": [
+        "suspect"
+      ]
+    },
+    {
+      "character_id": "char_04",
+      "roles": [
+        "suspect"
+      ]
+    },
+    {
+      "character_id": "char_05",
+      "roles": [
+        "suspect",
+        "murderer"
+      ]
+    },
+    {
+      "character_id": "char_06",
+      "roles": [
+        "suspect"
+      ]
+    },
+    {
+      "character_id": "char_07",
+      "roles": [
+        "detective"
+      ]
+    }
+  ]
+}

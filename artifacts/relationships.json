@@ -1,0 +1,76 @@
+{
+  "relationships": [
+    {
+      "character_a_id": "char_01",
+      "character_b_id": "char_07",
+      "surface_relationship": "Innkeeper and Guest/New Resident",
+      "public_relationship_status": "Cordial and professionally friendly",
+      "private_relationship_status": "Respectful curiosity and polite reserve",
+      "shared_history_summary": "Beatrice recently moved to the town and likely interacted with Eleanor at The Gull's Perch Inn, either as a guest or a frequent visitor, observing local life for her writing.",
+      "character_a_private_view": "Views Beatrice as a polite, inquisitive new resident, perhaps a bit nosy but generally harmless. Appreciates her patronage and interest in the local community.",
+      "character_b_private_view": "Views Eleanor as a gracious, resilient woman, a keeper of local history, and a potential character study for her novels. Feels a degree of sympathy for Eleanor's quiet struggles with the inn.",
+      "conflict_level": "low",
+      "trust_level": "moderate"
+    },
+    {
+      "character_a_id": "char_01",
+      "character_b_id": "char_02",
+      "surface_relationship": "Community Acquaintances",
+      "public_relationship_status": "Polite, if somewhat distant, recognition",
+      "private_relationship_status": "Guarded respect tinged with generational friction",
+      "shared_history_summary": "Both are long-term residents of the town, Eleanor for twenty years and Elias his whole life. They've witnessed the town's evolution and would have interacted through local events and daily life.",
+      "character_a_private_view": "Respects his deep roots and connection to the town's heritage but finds him a bit rigid and unapproachable in his traditionalism.",
+      "character_b_private_view": "Views Eleanor as a relatively newer arrival (compared to his own history) who runs a significant town landmark. He might resent the inn's shift towards tourism or see her financial struggles as a symptom of changing times he disapproves of.",
+      "conflict_level": "moderate",
+      "trust_level": "low"
+    },
+    {
+      "character_a_id": "char_01",
+      "character_b_id": "char_03",
+      "surface_relationship": "Innkeeper and Returning Local",
+      "public_relationship_status": "Polite, professional acquaintances",
+      "private_relationship_status": "Distant respect with underlying professional differences",
+      "shared_history_summary": "Aris grew up in the town and would have known of Eleanor and the inn, even after years away. Eleanor would remember Aris as Captain Thorne's intelligent daughter.",
+      "character_a_private_view": "Admires Aris's intellect and ambition but finds her somewhat aloof. Might hope for her support or investment in local ventures.",
+      "character_b_private_view": "Views Eleanor as a kind, if somewhat traditional, figure. Her scientific mind might see the inn's financial struggles as a problem needing a more modern, logical solution, or perhaps views the inn as an obstacle to her own research interests.",
+      "conflict_level": "low",
+      "trust_level": "low"
+    },
+    {
+      "character_a_id": "char_01",
+      "character_b_id": "char_04",
+      "surface_relationship": "Fellow Business Owners",
+      "public_relationship_status": "Friendly and mutually supportive business associates",
+      "private_relationship_status": "Surface charm masking opportunistic observation",
+      "shared_history_summary": "Leo opened his antique shop around five years ago, making him a contemporary business owner in the same small town as Eleanor's inn. They would frequently interact professionally and socially.",
+      "character_a_private_view": "Finds Leo charming and good for local business, but perhaps a bit superficial or prone to gossip. Feels a vague sense of vulnerability regarding her finances in his presence.",
+      "character_b_private_view": "Views Eleanor as a 'grand dame' figure whose prominent inn is clearly in financial distress. His keen eye for value might see opportunity in her misfortune, perhaps coveting the inn's antique contents or the property itself.",
+      "conflict_level": "moderate",
+      "trust_level": "low"
+    },
+    {
+      "character_a_id": "char_01",
+      "character_b_id": "char_05",
+      "surface_relationship": "Community Acquaintances",
+      "public_relationship_status": "Polite and respectful peers",
+      "private_relationship_status": "Deep-seated resentment and disapproval from Clara",
+      "shared_history_summary": "Both have been significant figures in the town for decades \u2013 Clara a lifelong resident and historian, Eleanor the innkeeper for twenty years. Their paths would have crossed frequently through community life and the inn's historical status.",
+      "character_a_private_view": "Views Clara as a respected, albeit rigid and critical, local historian. Feels a subtle sense of being judged or scrutinized by her.",
+      "character_b_private_view": "Views Eleanor as an outsider who has taken over a vital piece of town history (the inn) and is failing to uphold its 'true' integrity. Her long-held grudge against a prominent local family might extend to Eleanor or the inn if there's any perceived connection or slight.",
+      "conflict_level": "high",
+      "trust_level": "low"
+    },
+    {
+      "character_a_id": "char_01",
+      "character_b_id": "char_06",
+      "surface_relationship": "Innkeeper and Local Worker/Patron",
+      "public_relationship_status": "Distant but polite recognition",
+      "private_relationship_status": "Mutual wariness and underlying class tension",
+      "shared_history_summary": "Finn moved to town a few years ago. As a prominent innkeeper, Eleanor would be known to him, and he might have frequented the inn's public areas or done odd jobs for her.",
+      "character_a_private_view": "Views Finn as a hardworking but potentially volatile young man. Is wary of his quick temper and his financial struggles impacting her business or the town's reputation.",
+      "character_b_private_view": "Views Eleanor as part of the town's wealthier establishment, despite her hidden struggles. Resents her perceived prosperity and the inn's success while he struggles to make ends meet, potentially exacerbated by his gambling problem.",
+      "conflict_level": "moderate",
+      "trust_level": "low"
+    }
+  ]
+}
